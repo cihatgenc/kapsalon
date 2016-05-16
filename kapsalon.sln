@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kapsalon.Service", "Kapsalon.Service\Kapsalon.Service.csproj", "{CB860BA9-4CE1-4926-BAF3-6AD52E4ED9C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kapsalon.Mssql", "Kapsalon.Mssql\Kapsalon.Mssql.csproj", "{CFFBB942-7801-48E5-A6F3-A53B6A7D2021}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CB860BA9-4CE1-4926-BAF3-6AD52E4ED9C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CB860BA9-4CE1-4926-BAF3-6AD52E4ED9C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CB860BA9-4CE1-4926-BAF3-6AD52E4ED9C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFFBB942-7801-48E5-A6F3-A53B6A7D2021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFFBB942-7801-48E5-A6F3-A53B6A7D2021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFFBB942-7801-48E5-A6F3-A53B6A7D2021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFFBB942-7801-48E5-A6F3-A53B6A7D2021}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
